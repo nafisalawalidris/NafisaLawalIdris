@@ -31,28 +31,28 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="python"/>
-  <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png" alt="sql-server"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="postgresql"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="power-bi"/>
-  <img src="https://img.icons8.com/color/48/000000/r.png" alt="r"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sql-server" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg" alt="r" width="40" height="40"/>
   <img src="ex.png" title="Java" alt="Excel" width="40" height="40"/>&nbsp;
   <img src="bi.png" title="power-bi" alt="Power BI" width="40" height="40"/>&nbsp;
   <img src="tableau.png" title="tableau" alt="Tableau" width="40" height="40"/>
-  <img src="https://img.icons8.com/fluency/48/000000/bitcoin.png" alt="bitcoin"/>
-  <img src="https://img.icons8.com/color/48/000000/scikit-learn.png" alt="scikit-learn"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" alt="numpy"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" alt="pandas"/>
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="html5"/>
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="css3"/>
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="javascript"/>
-  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" alt="bitcoin" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" alt="numpy" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" alt="pandas" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://www.rust-lang.org/logos/rust-logo-512x512.png" alt="rust" width="40" height="40"/>
 </p>
 
 ---
 
-![Nafisah's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafisalawalidris&show_icons=true&include_all_commits=true&hide_border=true)
+![nafisalawalidris's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafisalawalidris&show_icons=true&include_all_commits=true&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nafisalawalidris&theme=onedark" alt="nafisalawalidris" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yczar&theme=onedark" alt="nafisalawalidris" /></p> 
 
-![Nafisah's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafisalawalidris&langs_count=8&layout=compact&hide_border=true)
+![nafisalawalidris's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafisalawalidris&langs_count=8&layout=compact&hide_border=true)
