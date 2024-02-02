@@ -6,24 +6,24 @@
 
 ## 👀 I'm a Data Scientist passionate about building a community that supports the growth of individuals in the tech industry. My goals are:
 
-- Mentoring 1000 individuals interested in transitioning into or advancing their careers in tech by 2023.
+- Mentoring individuals interested in transitioning into or advancing their careers in tech by 2024.
 - Providing my mentees with access to job opportunities and other benefits related to tech.
 - Offering continuous support and monitoring to help them achieve their career goals.
 
-## 🌱 Currently, I'm learning bitcoin development.
+## 🌱 Currently, I'm learning Bitcoin development and becoming a Bitcoin Open-Source Contributor.
 
 ## 💞️ I'm open to collaborating on open-source projects and writing tech articles.
 
-📫 Feel free to reach out to me at elfeenah413@gmail.com.
+📫 Feel free to reach out to me at feenah.eledrees@yahoo.co.uk.
 
-## 💬 Ask me anything, and I'll be happy to help.
+## 💬 Ask me anything and I'll be happy to help.
 
 ## ⚡️ Here's what I'm involved in:
 
 - Global Ambassador at WomenTech Network Global.
 - Advisory Board Member at [Spendo INC.](https://github.com/Spendoware)
 - Mentor at KaggleX, She Connect Africa, Google Women Techmakers (WTM) Ilorin, VC4A, Black Girls in Tech, WOMEN IN TECH - Global Movement & Women in Tech® Nigeria. 
-- Public Speaker at conferences. Contact me at elfeenah413@gmail.com to invite me to speak at your conference.
+- Public Speaker at conferences. Contact me at feenah.eledrees@yahoo.co.uk to invite me to speak at your conference.
 - State Ambassador at Northern Tech Ecosystem.
 - Instructor at Lighthall.
 - Consultant/Advisor at FATE Foundation.
@@ -50,8 +50,8 @@
 
 ---
 
-![elfeenah's GitHub stats](https://github-readme-stats.vercel.app/api?username=elfeenah&show_icons=true&include_all_commits=true&hide_border=true)
+![nafisalawalidris's GitHub stats](https://github-readme-stats.vercel.app/api?username=nafisalawalidris&show_icons=true&include_all_commits=true&hide_border=true)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yczar&theme=onedark" alt="elfeenah" /></p> 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yczar&theme=onedark" alt="nafisalawalidris" /></p> 
 
-![elfeenah's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfeenah&langs_count=8&layout=compact&hide_border=true)
+![nafisalawalidris's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nafisalawalidris&langs_count=8&layout=compact&hide_border=true)
