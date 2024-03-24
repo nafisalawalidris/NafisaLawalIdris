@@ -28,7 +28,8 @@
 - Advisory Board Member at [Spendo INC.](https://github.com/Spendoware)
 - Mentor at KaggleX, She Connect Africa, Google Women Techmakers (WTM) Ilorin, VC4A, Black Girls in Tech, WOMEN IN TECH - Global Movement & Women in Tech® Nigeria, ADPList Mentor, Women in Data Science (WiDS) Mentor.
 - Public Speaker at conferences. Contact me at feenah.eledrees@yahoo.co.uk to invite me to speak at your conference.
-- ForbesBLK Member - Ambassador Women in Data Science (WiDS) Worldwide.
+- ForbesBLK Member
+- Ambassador Women in Data Science (WiDS) Worldwide.
 
 
 #### My favourite languages & tools
