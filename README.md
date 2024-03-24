@@ -60,7 +60,7 @@
 ![](https://img.shields.io/badge/SciPy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)
 ![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
 
-### My favourite Data Visulazation Tools 
+#### My favourite Data Visualisation Tools 
 ![](https://img.shields.io/badge/Code-PowerBi-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Code-Tableau-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Code-Seaborn-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
