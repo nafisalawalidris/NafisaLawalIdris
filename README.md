@@ -51,7 +51,6 @@
 ![](https://img.shields.io/badge/TensorFlow-informational?style=flat&logo=TensorFlow&logoColor=white&color=FF6F00)
 ![](https://img.shields.io/badge/PyTorch-informational?style=flat&logo=PyTorch&logoColor=white&color=EE4C2C)
 ![](https://img.shields.io/badge/Keras-informational?style=flat&logo=Keras&logoColor=white&color=D00000)
-![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED)
 
 
 #### My favourite Python libs
@@ -66,6 +65,10 @@
 ![](https://img.shields.io/badge/Code-Seaborn-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
 ![](https://img.shields.io/badge/Code-Excel-informational?style=flat&logo=LaTeX&logoColor=white&color=008080)
+Programming tools:	Python, TensorFlow, Excel, PowerBI, Tableau, MATLAB, Scikit-learn, MySQL, R, PostgreSQL, MongoDB, JavaScript, HTML, CSS, SPSS, Minitab, NumPy, Pandas, ETL, Stata, SAS.
+Version control:	Git, GitHub, Notion and Trello.
+Transferable Skills:	Excellent Language and Communication skills, Time management, Networking skills, Analytical and Growth mindset, Negotiation skill, Entrepreneurial skills, technical writing and Teamwork.
+
 
 ---
 
